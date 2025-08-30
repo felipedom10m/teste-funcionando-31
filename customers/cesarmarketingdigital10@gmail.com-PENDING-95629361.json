@@ -1,0 +1,14 @@
+{
+  "email": "cesarmarketingdigital10@gmail.com",
+  "nome": "Cesar Sousa",
+  "cpf": "41316825833",
+  "selectedUpsells": [
+    2
+  ],
+  "transactionId": 95629361,
+  "timestamp": "2025-08-30T19:25:56.412Z",
+  "productInfo": {
+    "name": "teste-funcionando-31",
+    "repositoryUrl": "https://github.com/felipedom10m/teste-funcionando-31"
+  }
+}
